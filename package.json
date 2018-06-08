@@ -1,0 +1,16 @@
+{
+  "name": "jeste",
+  "version": "0.0.1",
+  "description": "JavaScript Template Engine",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
